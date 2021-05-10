@@ -1,0 +1,7 @@
+Package: readLP600
+Version: 0.1
+Date: 2021-05-10
+Title: Guri Giaever readLP600
+Description: function for reading OD600 from LP600 .txt files into AUDIT 
+Author: Guri Nina Giaever <ggiaever@gmail.com>
+Maintainer: Guri Nina Giaever <ggiaever@gmail.com>
